@@ -1,0 +1,323 @@
+objectid,identifier,object_location,image_small,image_thumb,title,creator,date,decade,object_transcript,description,subject,location,source,type,format,language,rights,rightsstatement
+number,The identifier field is used to preserve the unique identifier assigned to the object by the object’s (usually physical) source collection.,A full URL to a small image representation of the object or relative path if items are contained with in the project.,"A full URL to a small image representation of the object. Used to represent objects on Item pages, or in visualizations where a larger-than-thumb image would be useable Should be JPGs approximately 800x800 px max","A full URL to a thumb image representation of the object . Used to represent the object on visualization pages (i.e. Home, Browse, Map, and Timeline), in a fast, user friendly file size. Thumb images should be JPGs approximately 400x400 px max.","Title, (e.g. descriptive text about the object, historical notes, etc.)","Creator(s), (e.g. Doe, John G., 1967-1999)","original date and/or date range. (YYYY-MM-DD, Use question mark directly after date to indicate circa or approximate date)
+DATE OF EVENT DESCRIBED IN OBJECT","e.g. 1890-1899; 1900-1909. THIS FIELD DESCRIBES THE DECADE OF THE EVENTS REFERENCED, IF ITEM IS NOTES",,"(e.g. descriptive text about the object, historical notes, etc.)","names of people depicted or the name of who the item is primarily about. In the case of photos of groups of people enter names in order from left to right, front to back. If a subject's name is  unknown, use and underscore (_): eg Braffett, Josephine, 1900-1996; Braffett, Victoria, 1897-1980; _; Estile, Edna; etc.) ","(e.g. Lummi Island, or Northwest Coast; Lummi Island School)",Contributing instiution or private party and contact information,Image;StillImage,image/jpeg,eng,copyright status,http://rightsstatements.org/vocab/NoC-US/1.0/
+ais_bs_1,IMG_5669,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5669.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5669.jpeg,"189?, Nugent family proximity to school","Aiston, Peggy, d. 1998",1890-1899,1890-1899,,"Nugents lived near McDonald place. Two girls walked - to school where fire station is - winters started before daylight with lantern- also needed it to walk home after school in dark. 
+(This would be in 1890s)",Nugent family,"Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,TK?,
+ais_bs_2,IMG_5669,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5669.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"189?, C. R. Norman became teacher","Aiston, Peggy, d. 1998",1886-1891,1890-1899,,"(4) see photocopy Beach
+pg 789
+C. R. Norman became. .. first teacher in a little school building built upon land donated by Mr. Peterson. (Mr. Norman arrived around 1886 or a little later - 1891 per (5) pg 813-14","Norman, C. R.; Peterson, Theodore","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,TK?,
+ais_bs_3,IMG_5669,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5669.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1891-1898, Norman teaches at school","Aiston, Peggy, d. 1998",1891-1898,1890-1899,,"(5) pgs 813-14
+C. R. Norman taught school on LI between 1891 when he arrived and 1898 when he moved to Fairhaven.","Norman, C. R.","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,TK?,
+ais_bs_4,IMG_5669,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5669.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"189?, C. R. Norman also postmaster","Aiston, Peggy, d. 1998",1891-1898,1890-1899,,"(2)
+pg 400
+... C. R. Norman who taught the first [correction in pen: ""No""] school and was the second [correction in pen: ""6th""] postmaster at Beach","Norman, C. R.","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,TK?,
+ais_bs_5,IMG_5669,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5669.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1890-07-19, All-county teacher meeting","Aiston, Peggy, d. 1998",1890-07-19,1890-1899,,"N-7 BBE July 19, 1890--All county teachers meet in Lynden 8/3. Co. supt. - H. J. Swim. (Beth)","Norman, C. R.","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,TK?,
+ais_bs_6,IMG_5670,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5670.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1890-05-17, Delia Bacus hired to teach","Aiston, Peggy, d. 1998",1890,1890-1899,,"WWU Archives
+Agreement bet. Delia Bacus + F. F. Lane Wesley Thompson + Wm W. Chapin Drietirs dated 17 May 1890 to teach 5 months with an intermission of 1 mo. at close of 1st 3 mos. commencing 19 May 1890 - she to have teaching cert - to be pd. 35.00 mo. of 20 school days","Bacus, Delia; Lane, Frederick F.; Thompson, Wesley; Chapin, Wm. W.","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_7,IMG_5671,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5671.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1890-10, Number of pupils","Aiston, Peggy, d. 1998",1890,1890-1899,,"M-22
+Pg 11
+Oct 1890 - 37 pupils",,"Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_8,IMG_5671,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5671.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1888, Chaplin, Thompson, and Granger named","Aiston, Peggy, d. 1998",1888,1880-1889,,"M-34 See 1888
+W. W. Chaplin
+W. Thompson
+Melzar Granger, Clk Beach","Chapin, W. W.; Thompson, Wesley; Granger, Melzar","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_9,IMG_5672,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5672.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1890-11-01, List of election participants","Aiston, Peggy, d. 1998",1890,1890-1899,,"WWU Archives
+Election Schl W 32 1890
+M. Granger
+E. Wilson?
+Wm. Bacus
+Donald McMurchie
+Geo. Arnott
+John Coxson
+A. F. Bowder
+J. R. Barrett
+Theodore Peterson
+Christian Tuttle
+Johnathan Houper
+11/1/1890 Oath of Judges
+T. Peterson + C. Tuttle re election signed also by J. R. Barrett, Clerk of Election + Wesley Thompson Derictor
+Christian Tuttle elected 3 yrs + Theodore Peterson elected 2 yrs","Granger, Melzar; Wilson, E.; Bacus, Wm.; McMerchie, Donald; Arnott, George; Coxson, John; Bowder, A. F.; Barrett, J. R.; Peterson, Theodore; Tuttle, Christian; Houper, Johnathan; Thompson, Wesley","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_10,IMG_5673,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5673.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1890, Teacher's report of instruction","Aiston, Peggy, d. 1998",1890-05-21 through 1890-10-24,1890-1899,,"Teacher's School Report
+Beg May 21, 1890
+End Oct 24, 1890
+Clerk - Melzar Granger
+Directors - F. F. Lane - W. W. Chapin Wesley Thompson
+Students = 25 16M 9F avg = 22
+avg daily altered [attended?] 18 1/19
+How many not [met?] about 1 day = 2
+Length sch in wks = 20
+Wages teach incl bd = 35.00
+Daily recit = 23
+4 Reading classes + 23 pupils
+2 Spelling [check]   18 [check]
+1 Penmanship [check].  25 [check]
+4 Arith [check]   21 [check]
+1 Grammar [check]   7 [check]
+2 Geog [check]   10 [check]
+1 US Hist [checck]   3 [check]
+Physiology   = 25 pupils
+1 visit by Supt 2 by Directors
+1 [check] [check] Clerk
+Third grade cert May 10, 1890
+Taught before - 7 schools
+Miss M. Dec Bacus Teacher","Granger, Melzar; Lane, Frederick F.; Chapin, W. W.; Thompson, Wesley; Bacus, Delia","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_11,IMG_5675,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5675.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1891-08-14, Details of teacher's contract","Aiston, Peggy, d. 1998",1891-09-14,1890-1899,,"Teachers Contract
+C. R. Norman to teach for 3 school months starting 17 Aug 1891 = 50.00 per mo
+Signed 14 Aug 1891
+Theo Peterson
+Director","Norman, C. R.; Peterson, Theodore","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_12,IMG_5676,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5676.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1891, Annual superintendent report on school","Aiston, Peggy, d. 1998",1891,1890-1899,,"M-20
+1891 Co. Supts Annual Report - G. B. Johnston, Supt
+Dist 32
+No. of census children in Dist June 1, 1891 22M 10F 32T
+No. of child. enrolled public school 18M 10F T28
+Average daily attend. 13M 6F
+No. teachers empl 11M 1F T2
+Avg male salary per mo - 45.
+Avg female do 35.
+No. months school taught - 5.5
+Actual days school taught - 110
+No. depts - room - maintained - 1
+Total seating capy all rooms - 32
+Value school houses incl grounds - 100.
+Value school furn - 30.
+No. school houses now in dist - 1 - Log","Johnston, G. B.","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_13,IMG_5676,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5676.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1891-08-13, W. A. Raymond fails exam","Aiston, Peggy, d. 1998",1891-08-13,1890-1899,,"M-21
+Pg 2 - W. A. Raymond - age 25 - Frm Kans-Address Beach
+Exam Aug 13, 1891 - Failed - Experience - 2 terms","Raymond, W. A. ","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_14,IMG_5676,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5676.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1891-10, Number of pupils","Aiston, Peggy, d. 1998",1891-10-??,1890-1899,,"M-22
+Pg 11
+Octrober 1891 - 33 pupils",,"Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_15,IMG_5676,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5676.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1891, School financial records, autumn","Aiston, Peggy, d. 1998",1891-07-31 through 1893-07-25,1890-1899,,"M-25 Register School Warrants
+Pg 100
+7/31/1891 - C. R. Norman - Service as teacher - 45.00
+9/12/1891  do   do   50.00
+10/17/1891   do   do   50.00
+10/30/1891 Wesley Thompson-Cutting Wood 2.00
+5/13/1891-F. G. Maresch - School Furn 1.75
+11/13/91 - C. R. Norman - Teaching 50.00
+11/12/1891 - Melzar Granger-Services rendered 3.00
+7/25/1893 - Wash St. Furn Co. Furniture 150.00 [line crossed out in red ink]","Norman, C. R.; Thompson, Wesley; Maresch, F. G.; Granger, Melzar","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_16,IMG_5676,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5676.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1891-12-26, School board meeting minutes","Aiston, Peggy, d. 1998",1891-12-26,1890-1899,,"M-37
+Dec 26, 1891 minutes Schl Bd
+Present Gee Arnett and C Tuttle, F Peterson being absent
+Next term 4 mos to beg 1st Mon March 1892.
+Decided give teach 50. mo.
+Dec call spec mtg of electors dist 32 to bond dist OVER","Arnott, George; Tuttle, Christian; Peterson, F.","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_17,IMG_5683,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5683.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1892-02-27, School plans to open, March","Aiston, Peggy, d. 1998",1892-02-27,1890-1899,,"N-17 BBE Sat Feb 27, 1892
+The LI school opens Mon, March 7 with C. R. Norman as teacher. Mr. Norman is Postmaster at Beach and owns the lgst farm on the island.","Norman, C. R. ","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_18,IMG_5683,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5683.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1892-02-27, Impending vote on new schoolhouse","Aiston, Peggy, d. 1998",1892-02-27,1890-1899,,"N-17 BBE Sat Feb 27, 1892
+The LI school district will vote on a prop. Sat to bond the district for 2000. with which to build a new schoolhouse. There are 27 children enrolled and the present schoolhouse is built of logs and is only 12 x 16 ft in size. Some of the children go 3 or 4 miles thru the woods to attend school.",,"Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_19,IMG_5683,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5683.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1892, Results of vote on schoolhouse","Aiston, Peggy, d. 1998",1892-01-15,1890-1899,,"M-32
+The special election was held on Jan 15, 1892 and the bond issue was defeated 8-6 by the islanders. The School Bd members must have done some talking to their neighbors because when another election was held on Feb 27, 1892 the bond issue finally passed 13-1 and the school was built at Beach on the site of the present fire hall. ",,"Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_20,IMG_5683,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5683.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1892, Record of teacher employment","Aiston, Peggy, d. 1998",1892,1890-1899,,"M-34
+From Vol 1 Rec Teach Empl 1891-1900
+Chas R. Norman 4 mos beg 3-7-92 $50.00
+Laura Smith 3 mos beg 3-7-92 $40.00
+Laura Smith 3 mos beg 10-31-92 $40.00","Norman, Chas R.; Smith, Laura","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_21,IMG_5684,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5684.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1892, Annual superintendent report on school","Aiston, Peggy, d. 1998",1892,1890-1899,,"M20, 1892, #2
+Co. Supts Annual Report 1892 - August
+Census June 1, 1892 20M 10F
+Enrolled in opublic school 19M 8F
+1 Male teacher 50.00 mo.
+7 Months school taught
+1 Room Maintained
+Value school prop 210.00
+1 Log bldg
+Seating capy 24
+Total reciepts 715.55
+Pd 345.-- teacher
+67.00 rent - repair - feul - maint
+3.75 bldg - furn etc
+415.75 Total pd
+No bonds outstanding",,"Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_22,IMG_5685,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5685.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1892, Annual school district meeting, attendance","Aiston, Peggy, d. 1998",1892,1890-1899,,"Archives at WWU
+Annual Meeting School
+Dist 32 - Beach - 6/12/92
+Nominated - C. R. Norman Clerk
+W. E. Snyder
+Directors 3 yr - J. W. Tart, Geo Arnott
+1 yr - C. Tuttle, A. R. Payne
+W. E. Snyder apptd clerk for day. Geo. Arnott + A. R. Payne pidges[? fidges?]
+Meeting org at 9A clsd 1PM ","Norman, C. R.; Snyder, W. E.; Tarte, James W.; Arnott, George; Tuttle, Christian; Payne, A. R.","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_23,IMG_5685,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5685.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1892-02-27, Meeting for new schoolhouse vote, attendance","Aiston, Peggy, d. 1998",1892-02-27,1890-1899,,"Beach - Feb 27, 1892
+At a special schl meeting held at schhse for purpose of voting on bond for bldg a new schlhouse. 14 present. F. Peterson + Granger apptd judges. W. E. Snyder clerk
+Tho Peterson - H. Nugent - Don McMurchie - Geo Arnott (over)","Peterson, F.; Granger, Melzar; Snyder, W. E.; Peterson, Theodore; Nugent, Henry; McMerchie, Donald; Arnott, George","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_24,Bs_photos,tk,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1892-1919, South End schoolhouse",Unknown,1892-1919,1890-1899; 1900-1910; 1910-1912,,"Black and white photo of wooden schoolhouse, seemingly taken from front. Clapboard siding with decorative trim. ",,"Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,application/pdf,eng,,
+ais_bs_25,IMG_5686,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5686.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1892, List of voters, votes cast, schoolhouse","Aiston, Peggy, d. 1998",1892,1890-1899,,"H. Tuttle - Chris Tuttle - Jno[?] Peterson - Jno Fulton - F. F. Lane - J. H. Hatley - M. Granger - W. E. Snyder - A. Bowder - Wesley Thompson
+Polls closed 4 PM
+Total votes cast 14
+13 yes
+1 no
+W. E. Snyder Clerk
+Judges Theodore Peterson
+Melzar Granger","Tuttle, H; Tuttle, Christian; Peterson, J.; Fulton, J.; Lane, F. F.; Hatley, J. H.; Granger, Melzar; Snyder, W. E.; Bowder, A.; Thompson, Wesley; Peterson, Theodore","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_26,IMG_5686,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5686.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1892, Superintendent report on Norman","Aiston, Peggy, d. 1998",1892,1890-1899,,"Supt Hitt's report that all # 32 reports have been made by C. R. Norman, Clerk # 32
+also 5/23/92 + 2/27/92 + 8/1/92 8/27/92
+Apport. # 32 162.52 4/20/92
+apport # 32 12.62 8/1/92
+Card addressed to C. R. Norman clerk Dist 32 12/15/92 from a supplier thanking him for pymt of a bill","Hitt; Norman, C. R.","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_27,IMG_5682,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5682.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1892-04-10, Daily Reveille on school bonds",?,1892-04-10,1890-1899,,"Daily Reveille Sunday, April 10, 1892
+The bonds for school district No. 32 for the amount of 1000. - to run 5 yrs - were sold yesterday afternoon to Farson, Leach and Co. of Chgo. Interest at 7% - - District located on L. I. and comprises within its limits the entire extent of the island. The district is quite prosperous and has several hundred dollars to its credit in the apportionment fund. The sale of the bonds was for the purpose of raising money to erect a new school building. Als M-22 Pg 198 Bond Record---April 1, 1892 Dist 32 1000.00 5 yrs 7%",,"Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_28,IMG_5682,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5682.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1892-04-13, Daily Reveille on school construction",?,1892-04-13,1890-1899,,A new school house is being built at Beach on LI. Harrison Baccus has the contract for clearing the ground and also for putting up the bldg. It is thought the new structure will be ready for the summer term school. ,"Bacus, Harrison","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_29,IMG_5682,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5682.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1892-09-09, Daily Reveille on school progress",?,1892-09-09,1890-1899,,The new schoolhouse on L I is nearly completed and will soon be occupied. Miss Smith is the teacher of the coming people at that place. ,"Smith, Laura","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_30,IMG_5682,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5682.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1892-10-06, Daily Reveille on school opening",?,1892-10-06,1890-1899,,The opening of the new schoolhouse on L.I. takes place Friday eve. when the islanders will have a general jollification.,,"Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_31,IMG_5682,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5682.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1892-04-09, Deed, Theodore Peterson to District",?,1892-04-09,1890-1899,,"At Archives-WWU-Genl Index-Reverse - S - 1858-1897 Pg 30
+Deed--Vol 28 Deeds Pg 348
+April 9, 1892
+Theodore Peterson to School Dist 32-1 acre in Lot 3 Sec 9 37.1E","Peterson, Theodore","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_32,IMG_5687,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5687.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1892-10, Bills and payment for school materials","Aiston, Peggy, d. 1998",1892-10,1890-1899,,"Archives at WWU
+apport 18.77 10/20/92
+Bill from Moore + Moore
+Fairhaven Oct 11, 1892
+1/2 dz Grammar Sch Aritt 4.50
+1/4 [dz] Primary [Sch Aritt] 1.05
+1/2 [dz] Modern Spellers 1.50
+1 Pathfinder No. 1 .35
+2 Welch's 1st Less. Eng. 1.00
+3 Harpers Int Geography 1.80
+___
+10.20
+Card to C. R. Norman Clerk dated Oct 17, 1892 ack. pymt in full of above.
+School appat 1/20/92
+104.14
+_____
+Reciept 9/27/92
+25.42 for lumber furn. 
+T. Wilson for # 32
+W. A. Woodin","Norman, C. R.; Wilson, T.; Woodin, W. A.","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_33,IMG_5688,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5688.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1892-09-17, Daily Reveille on school land sale",,1892-9,1890-1899,,"N-3
+D. R. Sat Sept 17. 1892
+County Comm. Meet.
+An order was made requesting the state school land comission to authorize and order the slae of school land, viz: Lts 1 & 2, Sec 16 T37N R1E appraised at $5 per acre.",,"Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_34,IMG_5688,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5688.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1892-08-30, ""Lummi Island Improvements""",,1892-8,1890-1899,,"N-7 BBE Tues Aug 30, 1892
+Lummi Island Improvements
+Wesley Johnson (Thompson) who owns a ranch on LI is in the city. He says the population of the island has increased about 10% in the past 6 months. one of the neatest school houses in the county will be completed this week at Beach. It cost the district over 700.00 and is a big improvement on the old log school house, which has never in recent years been large enough to accomodate all the scholars. ","Thompson, Wesley","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_35,IMG_5688,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5688.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1892-09-06, ""L. I. Jots"" school progress",,1892-09-96,1890-1899,,"N-7 BBE Tues Sept 6, 1892 L.I. Jots-see copy in file
+School is progressing nicely under the supervision of Miss Lawrise Smith of Mt. View. This is Miss Smith's first term of instructing the rising senators, but from what one hears from the parents she is giving satisfcation. The new school house is nearing completion and when finished will be a credit to the island........","Smith, Laura","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_36,IMG_5688,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5688.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1892-01-23, Daily Reveille, apportionment of funds",,1892-01-23,1890-1899,,"D.R. for Sat. Jan 23, 1892 gives qtrly apport of funds by distr. no. LI is Dist #32
+1 teacher allowed ea. dist. and 1 addl teacher for every 70 children & a fraction over 30.
+Teacher apport 35.944 Amt per pupil 2.131
+District No. 32 No child. entitled to funds.......32
+Amt funds to which dist. entitled......104.14",,"Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_37,IMG_5688,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5688.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1892-04-22, Daily Reveille, school census",,1892-04-22,1890-1899,,"D.R. for Friday April 22, 1892
+School census taken between 1st and 20th june ea. yr
+Child. bet. ages 5 & 21 residents at time are counted. 
+Now 61 districts in county 3.3295 per child
+No. 32 has 32 children and is allotted 162.52 [handwriting: also M42 pg 37]
+M-17 Pg 37
+Apportionment for April 1892 - Amt per teacher 55.97547 and per pupil 3.3295 #32 - 162.52",,"Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_38,IMG_5689,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5689.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1892-05, Leadership changes Lummi School",,1892-05,1890-1899,,"M-17
+Pg 40
+May 7, 1892 - Accpted resignation of Theodore Peterson as Director #32 and appointed at his request Wesley Thompson
+Pg 42 - same book
+May 26, 1892 - J. M. Hitt, Supt., visited Island School - Dist 32 - C. R. Norman, teacher - 16 Present.","Peterson, Theodore; Thompson, Wesley; Hitt, J. M.","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_39,IMG_5689,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5689.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1892-11, New teacher Florence Lus ",,1892-11,1890-1899,,"M-21 Pg 12
+Dist 32 - Florence E. Lus - New Whatcom - Mich - Age 23 - took teach. exam Nov 1892 and recd Third Grade Cert - Experienced 9 terms. ","Lus, Florence E. ","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_40,IMG_5689,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5689.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1892-01-15, Vote on additional schoolhouses",,1892-01-15,1890-1899,,"M-37
+Jan 15, 1892--spec mtg of qualified electors dist 32... object being to see if they shall bond rthe dist to build 1 chosen chairman. Dec to vote by ballot on bond. Schl clerk acted as teller and announced 6 votes for and 8 against bonding. On question sites dec adjourn until 23d Jan to obtain proper papers for making deed for site.",,"Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_41,IMG_5689,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5689.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1892, Meeting minutes about additional schoolhouses",,1892-01-1892-02,1890-1899,,"Jan 23, 1892
+At mtg moved by M Granger that schl clerk and bd directors act as bd to draw up specification as to est of cost of schl house, to be presented next mtg.
+Feb 13, 1892
+J Harper informed dist he could not relse an acre from his land. Moved and 2nd that call elec of electors to bond dist for bldg of a schl house. Carried. Fred Peterson said would give a deed to an acre of land situated where present house stands, if the dist voted to bond the dist to build a schl house.
+Feb 27, 1892
+At spec election for purp voting bond Island for 1000. due in 5 yrs... Fred Peterson & Melzar Granger judges and W Snyder secy. Result - 13 for bonds and 1 against
+SEE PAGE 6 FOR CONTINUATION 1892 MINUTES","Granger, Melzar; Harper, J.; Peterson, Fred; Snyder, W. E. ","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_42,IMG_5690,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5690.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1892-03-26, Meeting minutes about additional schoolhouses, cont.",,1892-03-26,1890-1899,,"M-37 CONTINUATION 1892 SCHL BD MINUTES STARTED ON PG 5 
+March 26, 1892
+At reg quarterly mtg bd all present...that bd proceed open sealed bids for clearing and fencing school ground. That H. Bacus be let contract for clearing and fencing school ground as per advertised bids. His bid being lowest. Clerk Instr draw contr with H Bacus...","Bacus, Harrison","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_43,IMG_5690,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5690.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1892-06-04, Meeting minutes about additional schoolhouses, cont.",,1892-06-04,1890-1899,,"June 4, 1892
+Bd met by call of clerk. Mbrs all present...that bd proceed examine Bond of Farson, leach & Co. To be sent back to be corrected as calls for 700. instead of 1000. as adv.",,"Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_44,IMG_5690,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5690.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1892-06-25, Meeting minutes about additional schoolhouses, cont.",,1892-06-25,1890-1899,,"June 25, 1892
+Reg qtrly mtg, all present. Moved and sec that contr for bldg schl house and out-houses be let to W E Snyder and A Payne for consid 150. Paint to be bought by bd and job to be let to Snyder and Payne at 2.50 per day. Hauling of lumber let to A F Bowden providing he haul same as cheap as steamer and when we want it. Accept B. B. I. Co's offer 180 for lumber. Miss Sanra Smith hired for term 3 mos bef 1st Aug 1892 40. mo. Moved and sec that bd make prop to patrons to vote on - That dist furnish books for all the scholars, Dist to own books and loan same to Scholars. Carried.","Snyder, W. E.; Payne, A.; Bowden, A. F. Smith, Sanra","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_45,IMG_5690,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5690.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1892-08-05, Meeting minutes about additional schoolhouses, cont.",,1892-08-05,1890-1899,,"Aug 5, 1892
+Bd all present. W. Thompson be allowed to furn lumber for schl house at 217.00.
+Mr. Arnott to make out bill for paint just as he sees fit. Is Bacus to deliver the lumber from mill to school house at 2.50 per thousand. ","Thompson, Wesley; Arnott, George; Bacus, Isaac","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_46,IMG_5690,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5690.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1892-08-30, Meeting minutes about additional schoolhouses, cont.",,1892-08-30,1890-1899,,"Aug 30, 1892
+Bills allowed: H Bacus for clearing lot 170.00; I Bacus for hauling lumber 37.50; H Bacus 180 pt paymt of lumber; C Cissna for hardware 73.76.
+Dec to furn schl house in full. 40 single seats, 2 recitation seats, 1 teachers desk, 1 complete chart, dictionary, doz erasers, 1 frame and blackboard enough to go on 3 sides, 1 good bell. ","Bacus, Harrison; Bacus, Isaac; Cissna, C.","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_47,IMG_5690,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5690.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1892-09-24, Meeting minutes about additional schoolhouses, cont.",,1892-09-24,1890-1899,,"Sept 24, 1892
+Mbrs all present but H Nugent
+H Nugent made chairman for yr. Bd accepted the school house. Accepted H Bacus bill of lumber but retain 7.00 until he settles with the carpenters. Allow extra chgs of carpenters for extr work done on schl house, 22.00. Bill of C Cissna for paint and extra be allowed 78.74 - .50 = 78.24
+Wal Woodin allowed 25.42; A F Bowden for freightg 13.50; OVER","Nugent, Henry; Cissna, C.; Woodin, Wal; Bacus, Harrison","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,image/jpeg,eng,,
+ais_bs_48,IMG_5691,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5691.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1892-10, Meeting minutes about additional schoolhouses, reverse.",,1892-10,1890-1899,,"D. McMurchy for plowing and harrowing cleaning schl grounds 10.50
+4 mos school beg Oct 31, 1892. Utilize lumber in old school house for bldg walks at school house.
+Oct 18, 1892
+Bill of W E Snyder for seating school house allowed after ded 3.20 for lumber recd by him frm schl house, 200 ft at 116.00.; A W Payne 8 days work on schl ground at 2.50 = 20.00 - 1.50 for doors 18.50. Bill of C R Norman for work done on schl and money furn 21.15
+Laura Smith - 3 mos at 40. (Lawrise) Given in minutes as Sanra","McMerchie, Donald; Snyder, W. E.; Payne, A. W.; Norman, Chas. R.; Smith, Laura","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,,,,
+ais_bs_48,IMG_5691,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5691.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1976-11-11, Melcher memory about schoolhouse",,1892,1890-1899,,"Tape 6A Maurine Melcher talking at Civic Cl Mtg 11/11/76
+This... school house... had 2 rooms with entryway hall and cloakrooms off a front porch. Quite a large area surrounded it for a play field.","Melcher, Maurine","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,,,,
+ais_bs_49,IMG_5691,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5691.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1892, Changes after WA enters Union ",,1892,1890-1899,,"(113) Pg 27
+The entrance of the State of Wash into the Union brot chgs to the schl on LT. In 1892 a representative of the staff of the State Supt of Public Instr condemned the log schlhse so it was abandoned. The logs from this 1st schl bldg were used in the construction of Loganita Lodge... The site of the second schlhse was on the southern end of the island. (see other notes---same site as 1st)... This acre-tract was donated for a consid of 1.00 to Schl Dist No 32 by Theodore Peterson. The deed filed April 9, 1892 specified no restrictions. Here was erected a frame bldg made of ,machine-sawed boards. This second schlhse was also a one-room structure. To finance this new bldg the schl dist sold bonds amtg to $1000. on which rate of interest was 8%. Avg daily attendance for 1st year was 27 - 17 boys and 10 girls and total seatg capy of the schoolroom was 45. ","Peterson, Theodore","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,,,,
+ais_bs_50,IMG_5693,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5693.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1892-06-01, School district records, names",,1892-06-01,1890-1899,,"Lummi Island, School District No. 32
+June 1, 1892
+F F Lane 6 (children) NW 1/4 Sec 4
+Christian Tuttle 4 SE 1/4 Sec 5
+Donald McMurchy 3 SW 1/4 Sec 11
+J H Hattler 2 SW 1/4 Sec 5
+Geo Arnott 2 NW 1/4 Sec 5
+John Peters 1 (Ned Green age 10) NW 1/4 Sec 5
+Melzar Granger NW 1/4 Sec 5
+Isaac Bacus NW 1/4 Sec 11
+C.R. Norman 1 SW 1/4 Sec 4
+A R Payne 3 SW 1/4 Sec 9
+Teacher: C. R. Norman
+18 wks $50 Mo.
+Log house $200 val. incl grounds
+Bonds voted $1000 for new school house
+Census M 20 F 10 30
+Enr. M 19 F 8 27
+C. R. Norman, Clerk
+Report sworn to before George Arnott
+(Bro. Norman, patron, teacher, clerk.)","Lane, Frederick F.; Tuttle, Christian; McMerchie, Donald; Hatler, J. H.; Arnott, George; Peterson, John; Granger, Melzar; Bacus, Isaac; Norman, Chas. R.; Payne, A. R.","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,,,,
+ais_bs_51,IMG_5693,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5693.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1893-06-01, School district records, names",,1893-06-01,1890-1899,,"June 1, 1893
+C R Norman 2 Sec 4
+Geo Arnott 2 Sec 6
+C.Tuttle 5 Sec 8 (sic)
+Melzar Granger 5
+J. S. Chappell 4
+Fred Lane 5
+A R Payne 4
+A F Payne 1
+D McMurchy 3
+Isaac Bacus 5
+J.W. Tarte 2
+J H Hatler 1 (David Franklin)
+Teachers: Laura Smith 24 wks $40 Mo.
+C. R. Norman 16 wks $45 mo.
+1 Frame building val. $1200 incl. grounds
+Census M28 F12 40
+Enroll. M 23 F 19 33
+C. R. Norman, Clerk
+Sworn to before J. H. Hatler","Norman, C. R.; Arnott, George; Tuttle, Christian; Granger, Melzar; Chappell, J. S.; Lane, Frederick F.; Payne, A. R.; Payne, A. F.; McMerchie, Donald; Bacus, Isaac; Tarte, James W.; Hatler, J. H.; Smith, Laura","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,,,,
+ais_bs_52,IMG_5694,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5694.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1893-03-22, Letter to Reveille editor",,1893-03-22,1890-1899,,"Wed March 22, 1893
+Editor Reveille:
+Have noticed in your paper several places bidding for the normal school and not wishing to be out done in that line I desire to give notice through the Reveille that I have a good site for an institution of that kind. It is elevated, well drained, healthy and good views in all directions. I will give this site including 20 acres of land if those who have the authority will locate the normal on htis site. 
+Christian Tuttle","Tuttle, Christian","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,,,,
+ais_bs_53,IMG_5694,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5694.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1893-02-18, Minutes regarding school year",,1893-02-18,1890-1899,,"M-37
+Minutes Feb 18, 1893
+4 mos schl commenc 6th day March 1893. Advertise for cutting and haulg ten ricks wood. voted we give 45. mo and C R Norman empl as teacher. (A Payne had sugg 50. and H Nugent 40. - both defeated)","Norman, C. R.; Payne, A.; Nugent, Henry","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,,,,
+ais_bs_54,IMG_5694,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5694.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1893-06-1893-09, Minutes from special meetings",,1893-06-28,1890-1899,,"June 28, 1893
+Spec mtg - all present
+Fall schl comm Sept 18, 1893 for 3 mos
+To pay teacher 45. mo
+Schl be let to Miss T P Carpenter for term 3 mos. 
+July 25, 1893
+Spec mtg. J H Hatler to act as chairman for new board., Clerk to corresp with County Supt in re teacher and go acc his instrs. Dec 13, 1893
+Spec mtg - 3 mos term comm Dec 18 and Miss Josie Gawley as teacher at 45 per month.","Carpenter, T. P.; Hatler, J. H.; Gawley, Josie","Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,,,,
+ais_bs_55,IMG_5695,https://faculty.washington.edu/ketchley/beach_school_history/IMG_5695.jpeg,https://faculty.washington.edu/ketchley/beach_school_history/Image%20Coming%20Soon.png,,"1893-08, Co. superintendents annual report",,1893-08,1890-1899,,"Co. Supts. Annual Report 1893 - August
+Census 6/1/93 - 28 M 12 F
+In school 23 M 10 F
+1M (45.00) + 1F (40.00) teacher employed
+School taught 10 mos, 198 days
+1 dept (room)
+Value school 1200.
+furn 400.
+apparatus 75.
+1675.
+1 Frame building
+Reciepts 1890.11
+(Incl 1015 bonds)
+Pd teachers 470.00
+Rent-fuel, etc. 202.20
+Schoolhouse-site-bldg-furn 843.92",,"Western Washington University, Center for Pacific Northwest Studies; Peggy Aiston - Research on Lummi Island History collection, 1579-1998","Peggy Aiston - Research on Lummi Island History Collection, 1579-1998",Image;StillImage,,,,
