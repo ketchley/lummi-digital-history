@@ -14,7 +14,7 @@ url: https://ketchley.github.io
 # on GitHub Pages it is your github repository's name prefixed with a /
 baseurl: /lummi-digital-history
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
+source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 
 ##########
 # SITE SETTINGS
