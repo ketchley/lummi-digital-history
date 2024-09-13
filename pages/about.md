@@ -16,3 +16,5 @@ credits: true
 From Lummi Island Foundation for Education:
 
 This is an-in progress exhibit and repository of the history of the Lummi Beach School. Currently, our holdings are focused on the 1890s; we are in the process of analyizing and transcribing Lummi Island resident Peggy Aiston's extensive research notes. Using the Aiston archive, located at Western Washington University, we hope to piece together a primary source narrative of the development of this island institution. 
+
+This repository was created by Norah Murphy under the supervision of Dr. Sarah Ketchley, as a Directed Fieldwork project for the University of Washington MLIS program. Norah's process notes and documentation, including the metadata spreadsheet and collection conventions, are available at this blog: https://lis590murphy.wordpress.com
